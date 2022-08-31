@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA, SPRING, REACT,**
 
-- 📫 How to reach me **kadriozcan12@gmail.com**
+- 📫 How to reach me **kadri.ozcan@outlook.com**
 <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadriozcan&label=Profile%20views&color=c60128&style=flat" alt="kadriozcan" /> </p>
