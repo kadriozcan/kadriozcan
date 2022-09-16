@@ -3,7 +3,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning **JAVA, SPRING, REACT,**
+- 🌱 I’m currently learning **C#, ASP.Net, Angular,**
 
 - 📫 How to reach me **kadri.ozcan@outlook.com**
 <br><br>
