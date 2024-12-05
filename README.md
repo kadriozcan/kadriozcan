@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadriozcan&label=Profile%20views&color=0e75b6&style=flat" alt="kadriozcan" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring, React, SQL**
-
 - 📫 How to reach me **kadri.ozcan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
